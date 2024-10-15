@@ -123,4 +123,4 @@ DBLAB集成了AI助手，可以快速帮您实现智能化管理数据。
 
 欢迎扫码关注微信公众号，随时随地获取最新咨询。
 
-![查询数据](docs/public/wxqr.png)
+<img src="docs/public/wxqr.png" alt="查询数据" style="zoom:80%;" />

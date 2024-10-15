@@ -106,3 +106,9 @@ Use the built-in query tool to easily execute SQL queries. Select a table, click
 ![Query Data](docs/public/console.png)
 
 This is just a quick start, and we recommend referring to the detailed user manual for more advanced features and operation information. Enjoy your usage!
+
+
+
+### Follow us
+
+<img src="docs/public/wxqr.png" alt="查询数据" style="zoom:80%;" />
