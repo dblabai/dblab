@@ -8,6 +8,8 @@
 
 DBLab是一款功能强大的数据库管理工具，旨在为用户提供直观、高效的数据库管理体验。通过AI和用户友好的界面，DBLab简化了数据库管理任务，使数据库管理员和开发人员能够更轻松地管理和操作各种数据库。
 
+
+
 ## 功能特定
 
 - **智能AI助手**：DBLab集成了先进的ChatGPT AI助手，通过自然语言交互，用户可以轻松执行复杂的数据库任务，提高工作效率。
@@ -16,6 +18,8 @@ DBLab是一款功能强大的数据库管理工具，旨在为用户提供直观
 - **模式管理**：创建、修改和删除数据库表，支持丰富的数据类型和约束。
 - **数据高数导出**：支持数据快速导入与导出。
 - **代码生成**：快速生成代码，可自定义编程语言。
+
+
 
 ## 技术支持
 
@@ -39,7 +43,7 @@ dblab官网：[dblab.ai](https://www.dblab.ai/)
 
 若要创建新连接，请点击连接按钮，并选择你的服务器类型。然后，在连接窗口输入必需的信息。
 
-![connect](https://www.dblab.ai/assets/connect.j6f0HsLZ.png)
+![connect](docs/public/connect.png)
 
 你可以编辑连接的属性，右键单击连接，然后选择“编辑连接”。
 
@@ -47,7 +51,7 @@ dblab官网：[dblab.ai](https://www.dblab.ai/)
 
 连接成功后，您将能够浏览数据库的结构和内容。通过导航树状结构，您可以查看数据库中的表、字段、主键等对象。
 
-![数据库](https://www.dblab.ai/assets/database.3E8jYzu1.png)
+![数据库](docs/public/database.png)
 
 ## 浏览数据
 
@@ -59,7 +63,7 @@ dblab官网：[dblab.ai](https://www.dblab.ai/)
 
 再次点击**详细信息**按钮可以关闭显示。
 
-![详细信息](https://www.dblab.ai/assets/table-info.vKZGntf-.png)
+![详细信息](docs/public/table-info.png)
 
 ### 使用AI助手管理数据
 
@@ -71,7 +75,7 @@ DBLAB集成了AI助手，可以快速帮您实现智能化管理数据。
 
 你可以点击**+**按钮创建新的对话，也可以点击**历史记录**按钮，查看历史记录。
 
-![AI助手](https://www.dblab.ai/assets/ai.zUB4rOj-.png)
+![AI助手](docs/public/ai.png)
 
 > **当AI助手在当前表中唤醒时，默认与当前表交互。**
 
@@ -79,7 +83,7 @@ DBLAB集成了AI助手，可以快速帮您实现智能化管理数据。
 
 你可以和AI助手进行交互式问答，比如查询数据、生成代码、生成SQL语句、修复SQL错误、优化SQL语句等等，更多的功能期待您的发现！
 
-![AI助手](https://www.dblab.ai/assets/ai-chat.89w8Xwh8.png)
+![AI助手](docs/public/ai-chat.png)
 
 > **复制按钮**：复制当前内容。
 >
@@ -91,24 +95,24 @@ DBLAB集成了AI助手，可以快速帮您实现智能化管理数据。
 
 在当前表中，可以进行模糊搜索已经SQL查询，点击**查询数据**按钮切换查询模式。
 
-![搜索数据](https://www.dblab.ai/assets/search.3RHPR8nz.png)
+![搜索数据](docs/public/search.png)
 
 ### 管理数据
 
 提供了丰富的数据管理功能，包括添加、编辑、删除记录等。也可以通过右键点击表对象，您可以访问这些功能。
 
-![管理数据](https://www.dblab.ai/assets/table-log.dnlgk8UV.png)
+![管理数据](docs/public/table-log.png)
 
 ### 导入导出数据
 
 支持将数据导出为不同的格式（如CSV、Excel）以及从外部文件导入数据。这使得数据的迁移和备份变得非常方便。
 
-![导入导出数据](https://www.dblab.ai/assets/import._SNmuTKT.png)
+![导入导出数据](docs/public/import.png)
 
 ## 查询数据（SQL控制台）
 
 使用软件内置的查询工具，您可以轻松执行SQL查询。选择一个表，点击“查询”按钮，然后输入您的SQL查询语句并执行。
 
-![查询数据](https://www.dblab.ai/assets/console.hxaQF12Y.png)
+![查询数据](docs/public/console.png)
 
 这只是快速开始部分，我们建议您查阅详细的用户手册以获取更多高级功能和操作的信息。祝您使用愉快！
