@@ -41,7 +41,7 @@ When using database management software, connecting to a database is a crucial s
 
 To create a new connection, click the connect button and select your server type. Then, enter the required information in the connection window.
 
-![connect](https://www.dblab.ai/assets/connect.j6f0HsLZ.png)
+![connect](docs/public/connect.png)
 
 You can edit the connection properties by right-clicking on the connection and selecting "Edit Connection."
 
@@ -49,7 +49,7 @@ You can edit the connection properties by right-clicking on the connection and s
 
 After a successful connection, you can browse the structure and content of the database. Using the navigation tree structure, you can view tables, fields, primary keys, and other objects within the database.
 
-![Database](https://www.dblab.ai/assets/database.3E8jYzu1.png)
+![Database](docs/public/database.png)
 
 ## Browse Data
 
@@ -61,7 +61,7 @@ On the table data view page, clicking the **Details** button reveals metadata in
 
 Clicking the **Details** button again will close the display.
 
-![Details](https://www.dblab.ai/assets/table-info.vKZGntf-.png)
+![Details](docs/public/table-info.png)
 
 ### Manage Data Using AI Assistant
 
@@ -73,7 +73,7 @@ Click the **AI Assistant** button in the menu bar to open the AI assistant page.
 
 You can click the **+** button to create a new dialogue or click the **History** button to view past interactions.
 
-![AI Assistant](https://www.dblab.ai/assets/ai.zUB4rOj-.png)
+![AI Assistant](docs/public/ai.png)
 
 > **Copy Button**: Copy the current content.
 >
@@ -85,24 +85,24 @@ You can click the **+** button to create a new dialogue or click the **History**
 
 In the current table, you can perform a fuzzy search and SQL queries. Click the **Query Data** button to switch to query mode.
 
-![Search Data](https://www.dblab.ai/assets/search.3RHPR8nz.png)
+![Search Data](docs/public/search.png)
 
 ### Manage Data
 
 Various data management features are provided, including adding, editing, and deleting records. By right-clicking on table objects, you can access these functions.
 
-![Manage Data](https://www.dblab.ai/assets/table-log.dnlgk8UV.png)
+![Manage Data](docs/public/table-log.png)
 
 ### Import/Export Data
 
 Support for exporting data in different formats (such as CSV, Excel) and importing data from external files makes data migration and backup extremely convenient.
 
-![Import/Export Data](https://www.dblab.ai/assets/import._SNmuTKT.png)
+![Import/Export Data](docs/public/import.png)
 
 ## Query Data (SQL Console)
 
 Use the built-in query tool to easily execute SQL queries. Select a table, click the "Query" button, then enter your SQL query statement and execute.
 
-![Query Data](https://www.dblab.ai/assets/console.hxaQF12Y.png)
+![Query Data](docs/public/console.png)
 
 This is just a quick start, and we recommend referring to the detailed user manual for more advanced features and operation information. Enjoy your usage!
